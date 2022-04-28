@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/kieunverir/svyerc",
+  "repository": "https://github.com/kieunverir/svyerc",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
